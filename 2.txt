@@ -1,0 +1,3 @@
+  ya nihrena ne poninay v etom gite     
+
+Use "fg" to return to nano.
