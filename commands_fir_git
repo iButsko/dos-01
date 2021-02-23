@@ -1,0 +1,7 @@
+#this commands i used for git
+
+git status
+git --ver
+git add .
+git commint -m ""
+git push origin
