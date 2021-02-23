@@ -1,0 +1,10 @@
+#in this doc locates the files which i used for practice with docker
+
+
+docker images
+docker ps -a
+docker build -t apache2 vanya:v1 .
+docker run -d -p 1234:80 apache2 .
+docker search tomcat
+docker run -d -p 1235:80 tomcat
+docker run -d -p 123:80 nginx 
